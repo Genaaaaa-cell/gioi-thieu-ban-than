@@ -1,6 +1,6 @@
 # Đặng Quốc Dũng (GENA)
 
-![Ảnh đại diện](https://anh_namejpg.jpg)
+![Ảnh đại diện](2.jpg)
 
 ## Giới thiệu bản thân
 Xin chào! Mình là Dũng, hiện đang theo học ngành Sư phạm Tin học tại Trường Đại học Sư phạm - Đại học Huế. Mình có niềm đam mê với lập trình web, IoT, khoa học máy tính và luôn muốn tìm tòi, ứng dụng công nghệ để giải quyết các vấn đề thực tiễn.
